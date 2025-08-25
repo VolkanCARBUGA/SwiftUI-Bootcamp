@@ -11,7 +11,7 @@ import SwiftUI
 struct Odev_1_3App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProfileCardView()
         }
     }
 }
